@@ -1,4 +1,4 @@
-# Multi Modal Generation AI Master
+# GenAI - Multimodal Generation Lab
 
 **Build and explore generative AI across text, images, video, vision, speech, music, and 3D with hands-on PyTorch notebooks.**
 
@@ -38,8 +38,8 @@ The emphasis is understanding how models learn. These are compact teaching imple
 Use an isolated Python environment supported by the PyTorch packages you install. A CUDA-capable NVIDIA GPU is recommended for training. CPU execution is supported by the notebook device-selection logic but can take substantially longer.
 
 ```bash
-git clone https://github.com/vams2krish/Multi-Modal-Generation-AI-Master.git
-cd Multi-Modal-Generation-AI-Master
+git clone https://github.com/vams2krish/GenAI-Multimodal-Generation-Lab.git
+cd GenAI-Multimodal-Generation-Lab
 python -m venv .venv
 ```
 

@@ -1,0 +1,10 @@
+# Install a compatible torch / torchvision / torchaudio set separately.
+# Optional pretrained paths install additional dependencies in notebook cells.
+numpy
+matplotlib
+tqdm
+music21
+soundfile
+imageio
+jupyterlab
+ipykernel

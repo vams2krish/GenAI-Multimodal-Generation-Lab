@@ -1,0 +1,17 @@
+# Local datasets, model artifacts, and environments
+/data/
+/outputs/
+/checkpoints/
+/.claude/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.pt
+*.pth
+.DS_Store
+Thumbs.db
